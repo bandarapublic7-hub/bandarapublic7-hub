@@ -11,11 +11,21 @@
 
 ### **CHASE EVERTHING YOU WANT EXCEPT LOVE AND DEATH . THEY  WILL  FIND YOU WHEN IT's TIME 🌱 — life**
 
+<br>
+
+
 ### **MAKE PEACE WITH THE FACT THAT PEOPLE WILL ALWAYS SEE THIER OWN VERSION OF YOU IN THIER MINDS. YOU DON'T HAVE TO BE RESPONSIBLE FOR WHO THEY THINK YOU ARE  🌱 — life**
+
+<br>
 
 ### **"A MAN IS MADE BY HIS OWN BELIEF .AS HE BELIEVES, SO HE BECOMES" 🌱 — life**
 
+<br>
+
+
 ### **"iF THEY CAN'T DO IT .IT'S THEIR LIMIT,NOT YOUR 🌱 — life**
+<br>
+
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=bandarapublic7-hub">
