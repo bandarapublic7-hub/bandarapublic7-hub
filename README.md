@@ -9,6 +9,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%E2%80%9CDriven%20by%20resilience%20and%20creativity%2C%20I%20engineer%20solutions%20across%20CloudOps%2C%20MLOps%2C%20Deep%20Learning%20Ops%2C%20and%20DevOps%20%E2%80%94%20building%20secure%2C%20scalable%2C%20and%20impactful%20full%E2%80%91stack%20systems%20that%20merge%20innovation%20with%20reliability.%E2%80%9D" alt="Typing introduction" />
 </p>
 
+### **CHASE EVERTHING YOU WANT EXCEPT LOVE AND DEATH . THEY  WILL  FIND YOU WHEN IT's TIME 🌱 — life**
+
+### **MAKE PEACE WITH THE FACT THAT PEOPLE WILL ALWAYS SEE THIER OWN VERSION OF YOU IN THIER MINDS. YOU DON'T HAVE TO BE RESPONSIBLE FOR WHO THEY THINK YOU ARE  🌱 — life**
+
+### **"A MAN IS MADE BY HIS OWN BELIEF .AS HE BELIEVES, SO HE BECOMES" 🌱 — life**
+
+### **"iF THEY CAN'T DO IT .IT'S THEIR LIMIT,NOT YOUR 🌱 — life**
+
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=bandarapublic7-hub">
     <img src="https://komarev.com/ghpvc/?username=bandarapublic7-hub&label=Profile%20views&color=00FFFF&style=flat-square" alt="bandarapublic7-hub's profile views" />
@@ -17,8 +25,7 @@
 
 <img src="https://tse3.mm.bing.net/th/id/OIP.Dpa3KDCH_II4hMBeG0BREwHaEL?pid=Api&P=0&h=180" alt="Banner" width="100%" />
 
-### **CHASE EVERTHING YOU WANT EXCEPT LOVE AND DEATH .
-> THEY  WILL  FIND YOU WHEN IT's TIME 🌱 — life**
+
 ## 📌 About Me
 - A resilient and methodical Computer Engineering student, blending creative direction with technical expertise in web development, UI/UX design, and performance optimization. Passionate about ethical AI, open-source contribution, and building impactful digital experiences.”
 
