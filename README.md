@@ -13,6 +13,11 @@
 </p>
 
 <img src="https://tse3.mm.bing.net/th/id/OIP.Dpa3KDCH_II4hMBeG0BREwHaEL?pid=Api&P=0&h=180" alt="Banner" width="100%" />
+<img src="eagel video.mp4">
+<video width="600" controls>
+  <source src="eagel video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## 📌 About Me
 - A resilient and methodical Computer Engineering student, blending creative direction with technical expertise in web development, UI/UX design, and performance optimization. Passionate about ethical AI, open-source contribution, and building impactful digital experiences.”
