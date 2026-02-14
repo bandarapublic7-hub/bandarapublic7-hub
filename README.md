@@ -1,5 +1,6 @@
 ## Hi there 👋
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Jack%20Sharma&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%20%20%20%20%20%20%20%20CloudOps%2C%20MLOps%2CDeeplearningOps%2CDevOps&descSize=18&descAlignY=55&textBg=false"/>
+<img src="github-header-banner.png">
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%E2%80%9CDriven%20by%20resilience%20and%20creativity%2C%20I%20engineer%20solutions%20across%20CloudOps%2C%20MLOps%2C%20Deep%20Learning%20Ops%2C%20and%20DevOps%20%E2%80%94%20building%20secure%2C%20scalable%2C%20and%20impactful%20full%E2%80%91stack%20systems%20that%20merge%20innovation%20with%20reliability.%E2%80%9D" alt="Typing introduction" />
