@@ -17,7 +17,7 @@
 
 <img src="https://tse3.mm.bing.net/th/id/OIP.Dpa3KDCH_II4hMBeG0BREwHaEL?pid=Api&P=0&h=180" alt="Banner" width="100%" />
 
-> **CHASE EVERTHING YOU WANT EXCEPT LOVE AND DEATH .
+### **CHASE EVERTHING YOU WANT EXCEPT LOVE AND DEATH .
 > THEY  WILL  FIND YOU WHEN IT's TIME 🌱 — life**
 ## 📌 About Me
 - A resilient and methodical Computer Engineering student, blending creative direction with technical expertise in web development, UI/UX design, and performance optimization. Passionate about ethical AI, open-source contribution, and building impactful digital experiences.”
