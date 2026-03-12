@@ -1,4 +1,6 @@
-
+<p align="center">
+<img src="Screenshot 2026-03-12 122522.png" hight = "500" width="500">
+</p>
 ## Hi there 👋
 <img src="github-header-banner.png">
 
