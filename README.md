@@ -1,4 +1,4 @@
-<p align="center"> <img src="Screenshot 2026-03-12 122522.png" hight = "900" width="900"> </p>
+<p align="center"> <img src="Screenshot 2026-03-12 122522.png" hight = "1100" width="1100"> </p>
 
 ## Hi there 👋
 <img src="github-header-banner.png">
