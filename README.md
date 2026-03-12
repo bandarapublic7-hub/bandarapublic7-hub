@@ -1,4 +1,4 @@
-<img src = "https://yt3.ggpht.com/afkO5D7RfXqMOC59sM4rmT5qK1qptsjC2FZ_s52qPt4Fh_TDNjxMvZZtFke8h2AhlR5irpWS=s88-c-k-c0x00ffffff-no-rj" alt="crown" width="108" height="148" style="margin: 8px;" />
+
 ## Hi there 👋
 <img src="github-header-banner.png">
 
